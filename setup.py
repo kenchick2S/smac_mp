@@ -29,7 +29,7 @@ extras_deps = {
 
 
 setup(
-    name="SMAC",
+    name="SMAC_MP",
     version="1.0.0",
     description="SMAC - StarCraft Multi-Agent Challenge.",
     long_description=description,
